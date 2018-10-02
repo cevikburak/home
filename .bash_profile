@@ -16,5 +16,5 @@ if [ -d ~/bin ] ; then
 fi
 
 # add my scripts directory to PATH
-
+sdsdsdsds
 PATH=~/scripts:"${PATH}"
